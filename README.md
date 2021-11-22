@@ -1,0 +1,3 @@
+# Spinner
+Simple animation project
+
